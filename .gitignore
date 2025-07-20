@@ -1,0 +1,8 @@
+# checkpoints and data
+ckpt/
+data/
+eval_results/
+tmp_gradio/
+# Python caches
+**/__pycache__/
+*.py[cod]
